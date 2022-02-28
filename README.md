@@ -8,7 +8,7 @@ Implementation of system to measure the distance using ultrasonic sensor HC-SR04
            2-LCD DRIVER
            3-ULTRASONIC DRIVER
            4_ICU DRIVER
-# 2=TOOLS  :
+# 2-TOOLS  :
            1-PROTUES
            2-ECLIPSE
 # Calculation to determine Distance 
