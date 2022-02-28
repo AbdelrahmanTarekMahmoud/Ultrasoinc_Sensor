@@ -16,7 +16,7 @@ uint16 TIMER_VALUE = 0; /* the time required by the sensor to detect an object a
  *******************************************************************************/
 void Ultrasonic_init(void) {
 	/*setup Icu to with f_cpu_clock and to detect Rising Edge initially*/
-	Icu_ConfigType Icu_Config = { F_CPU_CLOCK, RISING };
+	Icu_ConfigType Icu_Config = { F_CPU_8, RISING };
 	Icu_init(&Icu_Config);
 	/*CallBack function Becasue Icu is in lower layer than Ultrasonic*/
 	Icu_setCallBack(Ultrasonic_edgeProcessing);
