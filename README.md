@@ -13,7 +13,7 @@ Implement the following system to measure the distance using ultrasonic sensor H
            2-ECLIPSE
 # Calculation to determine Distance 
 ![screenshot_20220228_073700](https://user-images.githubusercontent.com/85140058/155930526-23ad4e62-9aee-4dff-802c-75df417267cd.png)
-# Tesed With 
+# Tested With 
            Atmega16 Running at 8Mhz
 # AUTHOR 
            Abdelrahman Tarek Mahmoud - Gmail : AbdelrhmanTarekMahmoud@gmail.com
