@@ -10,7 +10,7 @@
 #include"util/delay.h"
 
 uint8 g_edgeCount = 0;
-float TIMER_VALUE = 0; /* the time required by the sensor to detect an object and return back from an object*/
+uint16 TIMER_VALUE = 0; /* the time required by the sensor to detect an object and return back from an object*/
 /*******************************************************************************
  *                      Functions Definitions                                  *
  *******************************************************************************/
